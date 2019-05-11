@@ -8,6 +8,8 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:ci": "jest -ci --runInBand",
+    "test:verbose": "jest --verbose",
+    "test:coverage": "jest --coverage --colors",
     "lint": "ng lint"
   },
   "private": true,
